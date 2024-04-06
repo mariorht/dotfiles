@@ -1,4 +1,4 @@
-pacman -S kitty zsh git stow
+pacman -S kitty zsh git stow unzip ttf-roboto ttf-jetbrains-mono
 
 
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
