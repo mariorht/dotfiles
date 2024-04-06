@@ -57,6 +57,7 @@
       <property name="&lt;Super&gt;l" type="string" value="i3lock-everblush"/>
       <property name="&lt;Super&gt;c" type="string" value="picom_toggle"/>
       <property name="&lt;Super&gt;t" type="string" value="kitty"/>
+      <property name="&lt;Super&gt;space" type="string" value="rofi -combi-modi window,drun -show combi -modi combi -matching fuzzy"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
