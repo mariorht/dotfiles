@@ -9,6 +9,7 @@
       <property name="position-locked" type="bool" value="true"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="8"/>
+        <value type="int" value="5"/>
         <value type="int" value="4"/>
         <value type="int" value="10"/>
         <value type="int" value="7"/>
@@ -28,7 +29,7 @@
       <property name="size" type="uint" value="44"/>
       <property name="mode" type="uint" value="0"/>
       <property name="autohide-behavior" type="uint" value="0"/>
-      <property name="icon-size" type="uint" value="12"/>
+      <property name="icon-size" type="uint" value="15"/>
       <property name="background-rgba" type="array">
         <value type="double" value="0.094117999999999993"/>
         <value type="double" value="0.121569"/>
@@ -134,7 +135,6 @@
         <value type="string" value="thunar.desktop"/>
         <value type="string" value="kitty.desktop"/>
         <value type="string" value="xfce4-taskmanager.desktop"/>
-        <value type="string" value="firefox.desktop"/>
       </property>
       <property name="recent" type="array">
       </property>
@@ -176,7 +176,6 @@
     </property>
     <property name="plugin-1" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="16518400331.desktop"/>
       </property>
     </property>
     <property name="plugin-2" type="string" value="separator"/>
@@ -190,6 +189,11 @@
       <property name="include-all-workspaces" type="bool" value="false"/>
       <property name="show-only-minimized" type="bool" value="false"/>
       <property name="middle-click" type="uint" value="3"/>
+    </property>
+    <property name="plugin-5" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17124267212.desktop"/>
+      </property>
     </property>
   </property>
   <property name="configver" type="int" value="2"/>
