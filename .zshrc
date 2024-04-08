@@ -86,3 +86,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+
+# Bind ctrl-r but not up arrow
+eval "$(atuin init zsh --disable-up-arrow)"
